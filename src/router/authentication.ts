@@ -1,4 +1,4 @@
-import { login, register } from '../controllers/authentication';
+import { login, register } from '../module/auth/controller/AuthenticationController';
 import express from 'express';
 
 
